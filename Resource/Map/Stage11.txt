@@ -1,0 +1,15 @@
+[TILE]
+130 150 4 5
+[LAYER]
+B P C B B //1
+R A P R R //2
+R P B Y C //3
+P B C R P //4
+[HERO]
+1 1
+[INTERFACE]
+4
+PURPLE 4
+BLUE 4
+YELLOW 2
+RED 3

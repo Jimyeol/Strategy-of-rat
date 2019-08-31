@@ -1,0 +1,28 @@
+[MAPLIST]
+24
+Resource/Map/Stage1.txt Tutorial
+Resource/Map/Stage2.txt Easy..
+Resource/Map/Stage3.txt Turn!
+Resource/Map/Stage4.txt NoSpace
+Resource/Map/Stage5.txt HintC
+Resource/Map/Stage6.txt 4x4..
+Resource/Map/Stage7.txt NoThink
+Resource/Map/Stage8.txt What?
+Resource/Map/Stage9.txt Real!
+Resource/Map/Stage10.txt Don'tStop
+Resource/Map/Stage11.txt Moving
+Resource/Map/Stage12.txt Trees
+Resource/Map/Stage13.txt Whole
+Resource/Map/Stage14.txt HelpMom
+Resource/Map/Stage15.txt OhMyGod
+Resource/Map/Stage16.txt Remember?
+Resource/Map/Stage17.txt Skill!
+Resource/Map/Stage18.txt 12345
+Resource/Map/Stage19.txt YouGot!
+Resource/Map/Stage20.txt NoBig
+Resource/Map/Stage21.txt FREE
+Resource/Map/Stage22.txt Notebook
+Resource/Map/Stage23.txt Bye
+Resource/Map/Stage24.txt Wow!
+[STAGESETTING]
+4 6 АЃАн 107 132

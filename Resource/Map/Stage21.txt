@@ -1,0 +1,12 @@
+[TILE]
+216 200 3 3
+[LAYER]
+R B A //1
+R R B //2
+R B C //3
+[HERO]
+3 1
+[INTERFACE]
+2
+BLUE 2
+RED 3
