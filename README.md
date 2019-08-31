@@ -1,6 +1,6 @@
 STRATEGY-OF-RAT
 ===
-### Date: 2011-08
+### Date: 2011-06~
 I used the KGEmotion engine(DirectX).
 Puzzle game.
 
